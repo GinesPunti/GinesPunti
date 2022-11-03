@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- About Me💬: Hi, I'm Gines Punti. I'm a junior Front-End Dev...  -->
+
+Acerca de Mi💬: Hola, Soy Gines Punti. Un Junior Front-End Dev con muchas ganas de aprender. Estudio Programacion desde los 18 años y hace aproximadamente 1 año me meti en el mundo del desarollo web. 
+
+Lenguajes Aprendidos🌱: React.js, JavaScript, CSS, HTML.
